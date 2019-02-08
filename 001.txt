@@ -1,0 +1,1 @@
+Today's class was about Schrodinger's Wave Equation. We learnt the double derivative of the SWE and the ways to find the same.
